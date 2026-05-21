@@ -42,7 +42,7 @@ Este proyecto realiza un **Análisis Exploratorio de Datos (EDA)** detallado sob
 
 ```text
 ├── data/
-│   └── national-history.csv       # Dataset original con el histórico de métricas
+│   └── national-history.csv       Informe_ejecutivo.pdf  # Dataset original con el histórico de métricas
 ├── notebooks/
 │   └── Proyecto_EDA_Exploratory_Data_Analysis_Grupo_6.ipynb # Notebook de Jupyter con el desarrollo del código
-└── README.md               # Dependencias del entorno
+└── README.md               
