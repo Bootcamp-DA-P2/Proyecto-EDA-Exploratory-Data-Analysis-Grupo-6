@@ -10,6 +10,11 @@ El proyecto está compuesto por los siguientes documentos principales:
 2. **`Informe_ejecutivo.pdf`**: Documento corporativo formal dirigido a la dirección (Jonnathan Ospina) que destila los hallazgos técnicos en recomendaciones operativas e interpretaciones de negocio.
 
 ---
+## 🎬 Presentacion canva 
+
+-[🎬Análisis Estratégico e Histórico de la Evolución del COVID-19 en EE.UU.](https://canva.link/fgkm9omr4f9snq9)
+
+---
 
 ## 👥 Autores y Contexto
 * **Creado por:** Jose Carlos de Santiago Sánchez y Alejandra Duque García.
